@@ -22,7 +22,7 @@ $ pip2 install futures
 
 $ git clone https://github.com/Wkwkwk-XD/hekel
 
-``
+```
 
 #### Run script
 
@@ -32,4 +32,4 @@ $ cd hekel
 
 $ python2 hekel.py
 
-``
+```
