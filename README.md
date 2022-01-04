@@ -12,23 +12,15 @@
 
 ```bash
 
-$ pkg update && upgrade
+pkg update && upgrade
 
-$ termux-setup-storage
+pkg install python2 git
 
-$ pkg install python2
+pip2 install requests mechanize
 
-$ pkg install git
+pip2 install bs4 futures ipaddress
 
-$ pip2 install bs4
-
-$ pip2 install requests
-
-$ pip2 install mechanize
-
-$ pip2 install futures
-
-$ git clone https://github.com/Wkwkwk-XD/hekel
+git clone https://github.com/Wkwkwk-XD/hekel
 
 ```
 
@@ -38,6 +30,6 @@ $ git clone https://github.com/Wkwkwk-XD/hekel
 
 $ cd hekel
 
-$ python2 hekel.py
+$ python2 run.py
 
 ```
