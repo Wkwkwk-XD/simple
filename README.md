@@ -6,7 +6,6 @@
 [+] Cek Sesi Akun hasil crack
 [+] User Agent 
 [+] Token Facebook Awet
-[-] Cuman bisa name123,4,5 (tapi bisa pakai sandi manual)
 ```
 #### Install script on Termux
 
