@@ -15,9 +15,11 @@ pkg update && upgrade
 
 pkg install python2 git
 
-pip2 install requests mechanize
+pip2 install requests 
 
-pip2 install bs4 futures ipaddress
+pip2 install mechanize
+
+pip2 install bs4 futures
 
 git clone https://github.com/Wkwkwk-XD/simple
 
