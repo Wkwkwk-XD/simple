@@ -19,7 +19,7 @@ pip2 install requests mechanize
 
 pip2 install bs4 futures ipaddress
 
-git clone https://github.com/Wkwkwk-XD/hekel
+git clone https://github.com/Wkwkwk-XD/simple
 
 ```
 
@@ -27,8 +27,8 @@ git clone https://github.com/Wkwkwk-XD/hekel
 
 ```bash
 
-$ cd hekel
+cd simple
 
-$ python2 run.py
+python2 run.py
 
 ```
